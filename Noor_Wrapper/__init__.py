@@ -1,3 +1,3 @@
-from Wrapper.noor import Scrpaer
-from Wrapper.Parsers import Parser
-import Wrapper.Types
+from Noor_Wrapper.noor import Scrpaer
+from Noor_Wrapper.Parsers import Parser
+import Noor_Wrapper.Types

@@ -1,7 +1,7 @@
 import datetime
 from loguru import logger
 from bs4 import BeautifulSoup
-from Wrapper.Types import Book, SearchResult
+from Noor_Wrapper.Types import Book, SearchResult
 from bs4 import BeautifulSoup
 from requests_html import HTMLSession
 from bs4 import BeautifulSoup
