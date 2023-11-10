@@ -1,5 +1,4 @@
 discord
-discord.ext
 icecream
 loguru
 bs4
